@@ -19,10 +19,6 @@ bio: |
       where she develops and applies machine learning and AI-based solutions for data-driven research 
       and collaborative scientific projects. Her research interests include large language models, computer vision, 
       reinforcement learning, and AI ethics.
-  She holds a PhD in Computer Science from Stanford University, where her thesis focused on scaling laws for neural language models.
-  Prior to joining HZDR, she worked as a Senior AI Research Scientist at Meta AI, contributing to projects like Llama 2.
-  Israt is passionate about advancing AI technologies and their ethical applications in scientific research.
-  In her free time, she enjoys hiking, reading science fiction, and exploring new technologies.
 
 
 affiliations:
@@ -75,7 +71,6 @@ experience:
   - role: AI Research Scientist
     org: HZDR
     start: 2025-04-01
-    end: Present
     summary: |
       Leading research on ROFEX data denoising using deep learning. 
               Contributing to academic lectures. 

@@ -17,8 +17,13 @@ role: AI Research Scientist
 bio: |
   Israt Jahan Tulin is a researcher with the AI Consulting Team at Helmholtz-Zentrum Dresden-Rossendorf (HZDR), 
       where she develops and applies machine learning and AI-based solutions for data-driven research 
-      and collaborative scientific projects. Her research interests include large language models, computer vision, 
-      reinforcement learning, and AI ethics.
+      and collaborative scientific projects. Originally from Bangladesh, 
+      she earned her Master's degree at TU Dresden, 
+      where her thesis applied deep learning to classify pancreas texture and tumor grade using infrared spectroscopy data.
+      She contributed to stereo vision and dynamic object detection research in the ABSOLUT project at TU Dresden and later worked on virtual and augmented reality technologies as well as an Al-based interactive spine app at Otto von Guericke University Magdeburg.
+      Her expertise includes supervised learning, medical image analysis, and data preprocessing. 
+      She is proficient in English, Bangla (native), and Hindi, with intermediate German skills. 
+      Outside of work, she enjoys traveling, hiking, and watercolor painting.
 
 
 affiliations:
@@ -32,13 +37,15 @@ links:
   - icon: brands/x
     url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/Tulin206
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/israt-jahan-tulin/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=example
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Israt-Tulin?ev=hdr_xprf
 
 interests:
   - Machine Learning / Deep Learning

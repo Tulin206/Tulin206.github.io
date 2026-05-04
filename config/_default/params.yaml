@@ -21,7 +21,7 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: "AI Researcher | HZDR"
     # Site meta description for search engines and social sharing
-    description: "I am a researcher in the AI Consulting Team at Helmholtz-Zentrum Dresden-Rossendorf (HZDR), focusing on applied AI, data analysis, and research-oriented machine learning."
+    description: "AI researcher at HZDR, focusing on applied AI, data analysis, and machine learning."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "BuildLore"              # Twitter/X handle for Twitter Cards (without @)
@@ -148,7 +148,7 @@ hugoblox:
         - /
       disallow: []
       note: "Guidance for AI crawlers - customize to match your public content."
-      contact: ""
+      contact: "i.tulin@hzdr.de"
 
   # ────────────────────────────────────────────────────────────────────────────
   # CONTENT
@@ -185,9 +185,9 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   comments:
     enable: false
-    provider: ""                        # giscus | disqus
+    provider: "giscus"                  # giscus | disqus
     giscus:
-      repo: ""
+      repo: "username/repo-name"
       repo_id: ""
       category: ""
       category_id: ""
@@ -200,9 +200,9 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   analytics:
     google:
-      measurement_id: ""                # Google Analytics 4: G-XXXXXXXXXX
+      measurement_id: "G-XXXXXXXXXX"    # Google Analytics 4: G-XXXXXXXXXX
     google_tag_manager:
-      container_id: ""                  # GTM-XXXXXXX
+      container_id: "GTM-XXXXXXXXXX"    # GTM-XXXXXXX
     plausible:
       domain: ""
     fathom:

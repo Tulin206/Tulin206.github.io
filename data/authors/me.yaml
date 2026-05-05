@@ -32,18 +32,18 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: i.tulin@hzdr
+    url: mailto:i.tulin@hzdr.de
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
+  # - icon: brands/x
+  #   url: https://x.com/example
   - icon: brands/github
     url: https://github.com/Tulin206
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/israt-jahan-tulin/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/citations?user=example
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0006-0366-4373
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Israt-Tulin?ev=hdr_xprf
 
@@ -120,9 +120,9 @@ languages:
     level: 3
     label: Conversational
 
-# awards:
-#   - title: Best Paper Award
-#     awarder: NeurIPS
-#     date: "2022-12-01"
-#     summary: Awarded for groundbreaking work on efficient training of large models.
-#     icon: hero/trophy
+Accepted Proposals:
+  - title: Artificial Intelligence in REcycled Aluminum
+    funding: Helmholtz AI 2025 Project Proposal
+    date: "2026-03-03"
+    summary: This research project focuses on innovating the aluminum recycling process by utilizing machine learning techniques to automatically identify and analyze the formation of intermetallic compounds (IMCs) in recycled aluminum. The goal is to develop a workflow that can dramatically reduce the manual annotation effort required for large-scale recycling. By using weakly supervised deep learning models, we will provide a solution for the industry, ensuring a leap in efficiency and sustainability. This collaborative effort, supported by a strong consortium of experts from synchrotron facilities, machine learning, and industry, aims to deliver a reusable and transferable tool for volumetric 3D semantic segmentation.
+    icon: hero/trophy

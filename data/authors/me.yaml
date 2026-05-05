@@ -120,9 +120,16 @@ languages:
     level: 3
     label: Conversational
 
-Accepted Proposals:
+awards:
   - title: Artificial Intelligence in REcycled Aluminum
-    funding: Helmholtz AI 2025 Project Proposal
     date: "2026-03-03"
-    summary: This research project focuses on innovating the aluminum recycling process by utilizing machine learning techniques to automatically identify and analyze the formation of intermetallic compounds (IMCs) in recycled aluminum. The goal is to develop a workflow that can dramatically reduce the manual annotation effort required for large-scale recycling. By using weakly supervised deep learning models, we will provide a solution for the industry, ensuring a leap in efficiency and sustainability. This collaborative effort, supported by a strong consortium of experts from synchrotron facilities, machine learning, and industry, aims to deliver a reusable and transferable tool for volumetric 3D semantic segmentation.
+    awarder: Helmholtz AI 2025 Project Proposal
+    summary: |
+      This research project focuses on innovating the aluminum recycling process by utilizing machine learning techniques to automatically identify and analyze the formation of intermetallic compounds (IMCs) in recycled aluminum. The goal is to develop a workflow that can dramatically reduce the manual annotation effort required for large-scale recycling. By using weakly supervised deep learning models, we will provide a solution for the industry, ensuring a leap in efficiency and sustainability. This collaborative effort, supported by a strong consortium of experts from synchrotron facilities, machine learning, and industry, aims to deliver a reusable and transferable tool for volumetric 3D semantic segmentation.
     icon: hero/trophy
+  - title: Self-supervised Denoising Of Raw Tomography Detector Data For Improved Image Reconstruction
+    date: "2026-05-05"
+    awarder: HaiCon 2026 Conference
+    summary: |
+      Ultrafast electron beam X-ray computed tomography produces noisy data due to short acquisition times, resulting in reconstruction artifacts and reduced image quality. To address this challenge, we investigated two self-supervised deep-learning methods for denoising raw detector data and compared them with a conventional non-learning-based denoising approach. The methods were evaluated at both the sinogram and reconstruction levels using quantitative image quality measures, including PSNR and SSIM, as well as line-based analyses such as CTF and MTF. We found that the deep-learning-based methods enhanced the signal-to-noise ratio and led to overall improvements in the reconstructed images, outperforming the conventional non-learning-based method. Although the improvements in CTF and MTF were marginal, the overall findings indicate that self-supervised denoising of raw detector data can improve reconstruction quality. Future work will focus on further optimizing denoising performance and on investigating downstream tasks such as segmentation for additional validation.
+    icon: hero/academic-cap

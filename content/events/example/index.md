@@ -1,4 +1,6 @@
 ---
+# This will hide the page form your published site, but keep the file in your project
+draft: true
 title: "Create Beautiful Presentations with Markdown"
 
 event: HugoBlox Showcase

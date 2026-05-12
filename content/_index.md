@@ -41,11 +41,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I’m an AI consultant and machine learning engineer working at the intersection of deep learning, computer vision, scientific imaging, and reproducible AI. At HZDR, I focus on self-supervised denoising of ROFEX sinograms and raw tomography detector data using CAREamics, Noise2Void, N2V2, and Structured N2V, followed by tomographic reconstruction and evaluation with PSNR, SSIM, CTF, MTF, and reconstruction-quality analysis.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My broader work spans biomedical image analysis, medical deep learning, sensor and time-series data, multimodal data integration, anomaly detection, and scalable scientific computing on HPC systems. I build practical and reproducible AI workflows using Git, GitLab, CI/CD, containers, DVC, testing, FAIR data principles, secure data handling, and modern Python environments such as Conda, uv, and Pixi.
 
-        Please reach out to collaborate 😃
+        I also enjoy teaching and scientific communication, contributing to ML and deep learning training through HIDA, the HPC Gateway Fall School, and the ErUM Data Hub, and presenting research at scientific events.
+
+        I’m interested in building robust, trustworthy, and useful AI solutions for real-world scientific and medical challenges. Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
@@ -69,44 +71,44 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 10
-      # Filter on criteria
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: card
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - events
+  #   design:
+  #     view: card
+  # - block: collection
+  #   id: news
+  #   content:
+  #     title: Recent News
+  #     subtitle: ''
+  #     text: ''
+  #     # Page type to display. E.g. post, talk, publication...
+  #     page_type: blog
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 10
+  #     # Filter on criteria
+  #     filters:
+  #       author: ''
+  #       category: ''
+  #       tag: ''
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ''
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: card
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

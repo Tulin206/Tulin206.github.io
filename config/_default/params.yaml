@@ -12,83 +12,30 @@ hugoblox:
   # Site-level branding (for people/profiles, use the author system in content/authors/)
   # ────────────────────────────────────────────────────────────────────────────
   identity:
-    # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Israt Jahan Tulin"
-    # Legal entity for copyright notices (defaults to name if not set)
-    organization: "HZDR"
-    # Schema.org type for structured data
-    type: person                        # person | organization | local_business
-    # Short tagline displayed on your site
-    tagline: "AI Researcher | HZDR"
-    # Site meta description for search engines and social sharing
-    description: "AI researcher at HZDR, focusing on applied AI, data analysis, and machine learning."
-    # Social accounts (used for meta tags like Twitter Cards)
-    social:
-      twitter: "BuildLore"              # Twitter/X handle for Twitter Cards (without @)
-
-  # ────────────────────────────────────────────────────────────────────────────
-  # THEME
-  # Color and visual design system
-  # ────────────────────────────────────────────────────────────────────────────
+    name: Israt Jahan Tulin
+    type: person
+    tagline: AI Researcher | Machine learning researcher
+    description: Israt Jahan Tulin is a researcher with the AI Consulting Team at Helmholtz-Zentrum Dresden-Rossendorf (HZDR), where she develops and applies machine learning an
   theme:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
     mode: system
-    # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
-    pack: "default"
-    # Optional: Override theme pack colors
+    pack: dracula
     colors:
-      primary: ""                       # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
+      primary: fuchsia
       secondary: ""
-      neutral: ""                       # Affects gray utilities (text-gray-*, bg-gray-*)
-    # Optional: Mode-specific color overrides
-    colors_light: {}
-    colors_dark: {}
-    # Optional: Semantic surface color overrides
-    surfaces:
-      background: ""
-      foreground: ""
-      header:
-        background: ""
-        foreground: ""
-      footer:
-        background: ""
-        foreground: ""
-
-  # ────────────────────────────────────────────────────────────────────────────
-  # TYPOGRAPHY
-  # Font and text sizing
-  # ────────────────────────────────────────────────────────────────────────────
+      neutral: ""
   typography:
-    # Font: 'sans' (Inter), 'serif' (Roboto Slab), or 'native' (system fonts)
-    font: "sans"
-    # Size: 'sm', 'md', 'lg', or 'xl' (affects base font size and scale)
-    size: "md"
-
-  # ────────────────────────────────────────────────────────────────────────────
-  # LAYOUT
-  # Spacing and shape tokens
-  # ────────────────────────────────────────────────────────────────────────────
+    font: sans
+    size: md
   layout:
-    # Border radius: 'none', 'sm', 'md', 'lg', or 'full'
-    radius: "md"
-    # Spacing density: 'compact', 'comfortable', or 'spacious'
-    spacing: "comfortable"
-    # Avatar shape in author profiles
-    avatar_shape: circle                # circle | square | rounded
-
-  # ────────────────────────────────────────────────────────────────────────────
-  # HEADER
-  # Site header and navigation bar
-  # ────────────────────────────────────────────────────────────────────────────
+    radius: md
+    spacing: comfortable
+    avatar_shape: circle
   header:
     enable: true
-    # Header style variant
-    style: navbar                       # navbar | navbar-simple | minimal
-    # Stick to top on scroll
+    style: navbar
     sticky: true
-    # Menu alignment
-    align: center                       # left | center | right
-    # Feature toggles
+    align: center
     search: true
     theme_toggle: true
     theme_picker: true
@@ -104,56 +51,10 @@ hugoblox:
   # Site footer
   # ────────────────────────────────────────────────────────────────────────────
   footer:
-    # Footer style variant
-    style: minimal                      # minimal | columns | centered
+    style: minimal
     language_switcher: true
-    # Custom footer text (HTML supported)
-    text: ""
-
-  # ────────────────────────────────────────────────────────────────────────────
-  # COPYRIGHT
-  # Legal notices and licensing
-  # ────────────────────────────────────────────────────────────────────────────
   copyright:
-    # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} {name}. This work is licensed under {license}"
-    license:
-      type: cc                          # cc | all_rights | custom
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
-
-  # ────────────────────────────────────────────────────────────────────────────
-  # SEO
-  # Search engine optimization - overrides and technical settings
-  # ────────────────────────────────────────────────────────────────────────────
-  seo:
-    # Browser tab title override (defaults to identity.name if not set)
-    title: ""
-    # For local_business identity type only
-    location:
-      address:
-        street: ""
-        city: ""
-        region: ""
-        postal_code: ""
-        country: ""
-      coordinates:
-        latitude: null
-        longitude: null
-      phone: ""
-    # AI/LLM crawler guidance (llms.txt)
-    ai:
-      allow:
-        - /
-      disallow: []
-      note: "Guidance for AI crawlers - customize to match your public content."
-      contact: "i.tulin@hzdr.de"
-
-  # ────────────────────────────────────────────────────────────────────────────
-  # CONTENT
-  # Content rendering and behavior
-  # ────────────────────────────────────────────────────────────────────────────
+    notice: © {year} {name}
   content:
     # Math rendering
     math:

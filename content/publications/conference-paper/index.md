@@ -1,5 +1,8 @@
 ---
-title: 'An example conference paper'
+# If you want to keep the file for future reference but not show it on your website, add draft: true to the front matter at the top of index.md:
+draft: true
+
+title: 'Conference Paper'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
@@ -13,10 +16,10 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2017-08-01T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2017-08-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,10 +30,10 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Image filtering is a technique to preserve important signal elements such as edges, smoothing the details of the image to make images appear clear and sharpener. Among all the non linear concepts to suppress Gaussian noise the fuzzy logic based approaches are important as they are capable of reasoning with vague and uncertain information. In this study,  have made comparative study with the existing noise reduction methods where the images contaminated with Gaussian noise and found the best result by using fuzzy image filter with the help of fuzzy rules which make use of membership functions. In this article, to perform fuzzy smoothing, fuzzy derivative concept is also applied. This method provides better input for further image processing techniques. It also increases the contrast of the images, fine details and sharpening the edges as well. This comparative study, is made by numerical measures and visual inspection. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Performed a comparative study of fuzzy-logic-based image filtering for Gaussian noise reduction, showing improved image contrast, edge sharpening, and preservation of fine details over existing methods.
 
 tags:
   - Large Language Models

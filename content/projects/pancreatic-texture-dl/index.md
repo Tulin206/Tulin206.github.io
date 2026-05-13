@@ -8,7 +8,7 @@ tags:
   - PyTorch
   - ResNet
   - MLOps
-featured: true
+featured: false
 ---
 
 ## Project Overview

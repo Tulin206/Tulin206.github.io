@@ -8,7 +8,7 @@ tags:
   - CNN
   - Environmental Data
   - Docker
-featured: true
+
 links:
   - type: dataset
     url: "https://www.balticsea.eu/"

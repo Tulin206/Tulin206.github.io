@@ -7,7 +7,7 @@ tags:
   - Generalization
   - TensorFlow
   - Research
-featured: true
+featured: false
 ---
 
 ## Project Overview

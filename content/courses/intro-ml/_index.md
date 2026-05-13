@@ -26,6 +26,8 @@ This course provides a comprehensive introduction to machine learning concepts, 
 
 Learn the fundamentals of machine learning from scratch! This course covers essential concepts, popular algorithms, and hands-on implementation using Python.
 
+**Course Design:** This course is designed for self-paced learning and is based on materials from [scikit-learn](https://scikit-learn.org/) and [The Carpentries](https://carpentries.org/), adapted for beginners.
+
 ### What You'll Learn
 
 - **Fundamentals of Machine Learning**
@@ -47,14 +49,15 @@ Learn the fundamentals of machine learning from scratch! This course covers esse
 ## Course Materials
 
 {{< cards >}}
-  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Start your ML journey!" >}}
+  {{< card url="https://scikit-learn.org/stable/user_guide.html" title="Get Started with scikit-learn" icon="document-text" subtitle="Official scikit-learn documentation & tutorials" >}}
+  {{< card url="https://carpentries-incubator.github.io/machine-learning-novice-sklearn/" title="Get Started with Carpentries" icon="users" subtitle="Community-driven data science training resources" >}}
 {{< /cards >}}
 
-## Resources
+<!-- ## Resources
 
 - 📚 [Course Syllabus](#) - Download course outline
 - 💻 [GitHub Repository](#) - Code examples and datasets
-- 📊 [Jupyter Notebooks](#) - Interactive exercises
+- 📊 [Jupyter Notebooks](#) - Interactive exercises -->
 
 ## Prerequisites
 
@@ -72,6 +75,10 @@ Approximately 20-30 hours of self-paced learning
 ✅ Students transitioning into data science  
 ✅ Professionals looking to add ML skills  
 ✅ Anyone curious about AI and data-driven decisions
+
+## Next Steps
+
+After completing this course, you can advance to our [Introduction to Deep Learning](../intro-deeplearning/) course to learn about neural networks, FCNN, and CNN!
 
 ---
 

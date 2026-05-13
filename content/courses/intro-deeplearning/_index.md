@@ -31,9 +31,16 @@ Deep learning is transforming industries from computer vision to natural languag
 ### What You'll Learn
 
 - **Neural Network Fundamentals**
-  - Perceptrons and Activation Functions
+  - Neural Network Architecture (AI → ML → DL hierarchy)
+  - Multi-Layer Perceptron (MLP) structure
+  - Forward computation from input to output
+  - Activation Functions (ReLU, Sigmoid, Softmax)
+  - Loss Functions (Cross Entropy, Mean Squared Error, Mean Absolute Error)
   - Backpropagation
   - Gradient Descent Optimization
+  - Data wrangling
+  - Training Challenges (Overfitting, Vanishing and exploding gradients) and solutions
+  - Evaluation matrix
 
 - **Fully Connected Neural Networks (FCNN)**
   - Architecture Design
@@ -44,20 +51,28 @@ Deep learning is transforming industries from computer vision to natural languag
 - **Convolutional Neural Networks (CNN)**
   - Convolutional Layers
   - Pooling and Feature Maps
-  - Popular Architectures (LeNet, ResNet, VGG)
+  - Popular Architectures (AlexNet, ResNet, VGG)
   - Image Classification
   - Computer Vision Applications
 
 - **Practical Implementation**
-  - Using TensorFlow & Keras
+  - Using Pytorch, TensorFlow & Keras
   - Building models from scratch
   - Transfer Learning
   - Model Evaluation
 
-## Course Structure
+<!-- ## Course Structure
 
 {{< cards >}}
   {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Start learning deep learning!" >}}
+{{< /cards >}} -->
+
+## Course Structure
+
+{{< cards >}}
+  {{< card url="https://github.com/Tulin206/Lecture_HZDR" title="GitHub Repository 1" icon=💻 subtitle="Slides, Code examples, notebooks and datasets for NN basics" >}}
+  {{< card url="https://github.com/Tulin206/erumhub_deep-learning_2025" title="GitHub Repository 2" icon=💻 subtitle="Slides, Code examples, notebooks and datasets for NN basics" >}}
+  {{< card url="https://github.com/Tulin206/erumhub_deep-learning_2026" title="GitHub Repository 3" icon=💻 subtitle="Slides, Code examples, notebooks and datasets for NN basics" >}}
 {{< /cards >}}
 
 ## Course Modules
@@ -67,12 +82,12 @@ Deep learning is transforming industries from computer vision to natural languag
 3. **Module 3**: Convolutional Neural Networks (CNN)
 4. **Module 4**: Advanced Topics & Applications
 
-## Resources
+<!-- ## Resources
 
 - 📚 [Course Syllabus](#) - Download detailed outline
 - 💻 [GitHub Repository](#) - Code examples and datasets
 - 📊 [Jupyter Notebooks](#) - Interactive exercises
-- 🎥 [Video Tutorials](#) - Step-by-step walkthroughs
+- 🎥 [Video Tutorials](#) - Step-by-step walkthroughs -->
 
 ## Prerequisites
 
@@ -81,6 +96,8 @@ Deep learning is transforming industries from computer vision to natural languag
 - Basic linear algebra and calculus
 - Familiarity with NumPy and Pandas
 
+**New to machine learning?** Start with our [Introduction to Machine Learning](../intro-ml/) course first—it has no prerequisites!
+
 ## Duration
 
 Approximately 30-40 hours of self-paced learning
@@ -88,7 +105,7 @@ Approximately 30-40 hours of self-paced learning
 ## Tools & Libraries
 
 - Python 3.8+
-- TensorFlow / Keras
+- Pytorch / TensorFlow & Keras
 - NumPy, Pandas, Matplotlib
 - Jupyter Notebook
 

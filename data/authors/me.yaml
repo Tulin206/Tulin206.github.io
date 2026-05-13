@@ -63,7 +63,7 @@ education:
       Thesis on Deep-learning-based quantification of pancreatic texture using IR-Spectroscopy data.
     button:
       text: Download dissertation
-      url: /resume.pdf
+      url: https://github.com/Tulin206/Thesis_Report/blob/main/thesis-report-master-NCT/thesis.pdf
       icon: hero/arrow-down-tray
   - degree: M.Sc. in Computer Science and Engineering
     institution: Jahangirnagar University, Bangladesh

@@ -12,17 +12,22 @@ tags:
 links:
   - type: dataset
     url: "https://www.balticsea.eu/"
+  - type: github
+    url: "https://github.com/Tulin206/Baltic-Sea"
 ---
 
 ## Project Overview
 
-Developed an ML-based forecasting system to predict Baltic Sea temperature and salinity using two years of 6-hourly sampled data, surpassing traditional baseline methods.
+Developed an ML-based forecasting system to predict Baltic Sea temperature and salinity using two years of 6-hourly sampled data. This project is **not focused on achieving state-of-the-art accuracy**, but rather serves as a self-learning exercise to understand and apply LSTM networks, DVC (Data Version Control), and CI/CD pipelines as a beginner — all through completely self-directed learning.
 
 <!--more-->
 
-## Objective
+## Learning Goals
 
-Enhance predictions of Baltic Sea environmental conditions by leveraging temporal and spatial data patterns to outperform naive approaches (persistence, linear regression) with advanced ML models.
+- Understand and implement **LSTM** networks for time series forecasting
+- Apply **DVC** for data and model versioning in a real project
+- Set up a basic **CI/CD pipeline** for automated testing and reproducibility
+- Gain hands-on experience with **Docker** and software engineering best practices in ML
 
 ## Key Achievements
 

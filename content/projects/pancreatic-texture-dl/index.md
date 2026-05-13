@@ -9,6 +9,10 @@ tags:
   - ResNet
   - MLOps
 featured: false
+
+links:
+  - type: github
+    url: "https://github.com/Tulin206/thesis"
 ---
 
 ## Project Overview

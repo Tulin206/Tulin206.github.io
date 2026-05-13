@@ -6,7 +6,7 @@ type: docs
 
 tags:
   - Hugo Blox
-  - Course
+  # - Course
 
 content_meta:
   content_type: 'Course'

@@ -1,7 +1,7 @@
 ---
-title: Recent & Upcoming Talks
+title: Talks & Presentations
 cms_exclude: true
-#url: talk
+url: talk
 
 # View
 view: card
@@ -11,7 +11,3 @@ image:
   caption: ''
   filename: ''
 ---
-
-
-<!-- # This will hide the page form your published site, but keep the file in your project
-# draft: true -->

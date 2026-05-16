@@ -5,8 +5,8 @@ name:
   display: Israt Jahan Tulin
   given: Israt
   family: Tulin
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  # alternate: ''  # Example: 王伟
+  # pronunciation: ''  # Example: Wáng Wěi
   pronouns: she/her
 postnominals:
   - PhD
@@ -95,21 +95,123 @@ experience:
       Developed ML models for medical image analysis.
 
 skills:
-  - name: Technical Skills
+  - name: AI & Machine Learning
+    items:
+      - label: Machine Learning
+        level: 5
+      - label: Deep Learning
+        level: 5
+      - label: Self-Supervised Learning
+        level: 5
+      - label: Computer Vision
+        level: 5
+      - label: Scientific Data Analysis
+        level: 5
+      - label: Biomedical Image Analysis
+        level: 5
+
+  - name: Scientific Imaging & Tomography
+    items:
+      - label: ROFEX Sinogram Denoising
+        level: 5
+      - label: Tomographic Reconstruction
+        level: 4
+      - label: CAREamics
+        level: 5
+      - label: Noise2Void / N2V2
+        level: 5
+      - label: Structured N2V
+        level: 4
+      - label: Image Segmentation
+        level: 4
+      - label: Object Detection
+        level: 4
+      - label: Feature Extraction
+        level: 4
+
+  - name: Programming & Frameworks
     items:
       - label: Python
         level: 5
-      - label: Machine Learning
+      - label: TensorFlow / Keras
         level: 5
-      - label: Version Control (Git), CI/CD
+      - label: PyTorch
         level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
+      - label: Scikit-learn
         level: 5
+      - label: Pandas / NumPy / SciPy
+        level: 5
+      - label: Matplotlib
+        level: 4
+      - label: TensorBoard
+        level: 4
+
+  - name: MLOps & Reproducible Workflows
+    items:
+      - label: Git / Version Control
+        level: 5
+      - label: Testing
+        level: 4
+      - label: CI/CD
+        level: 4
+      - label: Containers
+        level: 4
+      - label: DVC Pipelines
+        level: 4
+      - label: FAIR Data Principles
+        level: 4
+      - label: Secure Data Handling
+        level: 4
+      - label: Conda / uv / Pixi
+        level: 4
+
+  - name: HPC & Scientific Computing
+    items:
+      - label: High-Performance Computing
+        level: 5
+      - label: Scalable Scientific Computing
+        level: 4
+      - label: Unix/Linux Shell Scripting
+        level: 4
+      - label: PyCharm
+        level: 5
+      - label: Visual Studio Code
+        level: 5
+
+  - name: Data Analysis & Pipelines
+    items:
+      - label: Data Preprocessing
+        level: 5
+      - label: ETL Pipelines
+        level: 4
+      - label: PCA
+        level: 4
+      - label: Sensor Data Analysis
+        level: 4
+      - label: Time-Series Data Analysis
+        level: 4
+      - label: Multimodal Data Integration
+        level: 4
+      - label: Prediction & Classification
+        level: 4
+
+  - name: Research, Teaching & Academic Communication
+    items:
+      - label: AI Consulting
+        level: 5
+      - label: Interdisciplinary Collaboration
+        level: 5
+      - label: Scientific Communication
+        level: 5
+      - label: Teaching ML/DL
+        level: 4
       - label: Conference Presentations
         level: 4
+      - label: Academic Writing
+        level: 4
       - label: Grant Proposals
+        level: 4
+      - label: Open-Source Contribution
         level: 4
 
 languages:

@@ -1,0 +1,4 @@
+/* Increase gap between skill columns */
+#section-resume-skills .grid {
+  gap: 3.5rem !important;
+}

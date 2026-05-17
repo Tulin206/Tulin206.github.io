@@ -1,5 +1,5 @@
 ---
-title: 'Journal Article 1'
+title: 'Journal Article'
 
 authors:
   - me
@@ -21,7 +21,7 @@ abstract: In this paper, we have proposed an image filtering technique (fuzzy lo
 summary: Proposed a fuzzy-logic-based CT image filtering and region-growing segmentation method to denoise abdominal CT scans and extract kidney regions, achieving up to 73% agreement with manual segmentation on 62 images from 16 patients.
 
 tags:
-  - Source Themes
+  - Machine Learning
 
 featured: true
 

@@ -1,5 +1,5 @@
 ---
-title: "Journal Article 3"
+title: "Journal Article"
 authors:
 - me
 # - Robert Ford
@@ -26,7 +26,8 @@ abstract: Image filtering is a technique to preserve important signal elements s
 summary: Performed a comparative study of fuzzy-logic-based image filtering for Gaussian noise reduction, showing improved image contrast, edge sharpening, and preservation of fine details over existing methods.
 
 tags:
-- Source Themes
+  - Machine Learning
+
 featured: true
 
 # hugoblox:

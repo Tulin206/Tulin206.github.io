@@ -1,5 +1,5 @@
 ---
-title: 'Journal Article 2'
+title: 'Journal Article'
 
 authors:
   - me

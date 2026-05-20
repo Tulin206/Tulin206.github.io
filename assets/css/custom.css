@@ -4,15 +4,15 @@
 }
 
 .selected-skills {
-  margin-top: 5rem;
+  margin-top: 1.2rem;
   text-align: center;
 }
 
 .selected-skills-title {
-  font-size: 1.8rem;
+  font-size: 1.55rem;
   font-weight: 700;
   color: #ffffff;
-  margin-bottom: 0;
+  margin-bottom: 0.75rem;
 }
 
 .selected-skills-icon {
@@ -25,17 +25,19 @@
   flex-wrap: wrap;
   gap: 0.5rem;
   justify-content: center;
+  max-width: 360px;
+  margin: 0 auto;
 }
 
 .selected-skill-pill {
   display: inline-block;
-  padding: 0.4rem 1rem;
+  padding: 0.35rem 0.8rem;
   border-radius: 9999px;
   font-size: 0.95rem;
   font-weight: 600;
   color: #ffffff;
   background: rgba(139, 92, 246, 0.18);
-  border: 1px solid rgba(139, 92, 246, 0.35);
+  border: 1px solid rgba(139, 92, 246, 0.4);
   backdrop-filter: blur(4px);
   transition: all 0.2s ease;
 }

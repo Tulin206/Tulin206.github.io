@@ -52,9 +52,15 @@ links:
 
 selected_skills:
   - Python
-  - Machine Learning
-  - Deep Learning
-  - Computer Vision
+  - Deep Learning Frameworks
+  - Scientific Python Stack
+  - Git / CI/CD / DVC
+  - MLOps & Reproducible AI
+  - FAIR & Secure Data
+  - Conda / uv / Pixi
+  - Containers / HPC / Scalable Computing
+  # - Unix/Linux Shell Scripting
+  # - PyCharm / Visual Studio Code
   - Data Analysis
 
 interests:

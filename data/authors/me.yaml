@@ -14,6 +14,10 @@ postnominals:
 status:
   icon: "☕️"
 role: AI Research Scientist
+# role: |
+#   AI Research Scientist
+
+#   Python · ML · Deep Learning · Computer Vision · Data Analysis
 bio: |
   Israt Jahan Tulin is a researcher with the AI Consulting Team at Helmholtz-Zentrum Dresden-Rossendorf (HZDR), 
       where she develops and applies machine learning and AI-based solutions for data-driven research 
@@ -24,7 +28,6 @@ bio: |
       Her expertise includes supervised learning, medical image analysis, and data preprocessing. 
       She is proficient in English, Bangla (native), and Hindi, with intermediate German skills. 
       Outside of work, she enjoys traveling, hiking, and watercolor painting.
-
 
 affiliations:
   - name: HZDR
@@ -46,6 +49,13 @@ links:
     url: https://orcid.org/0009-0006-0366-4373
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Israt-Tulin?ev=hdr_xprf
+
+selected_skills:
+  - Python
+  - Machine Learning
+  - Deep Learning
+  - Computer Vision
+  - Data Analysis
 
 interests:
   - Machine Learning / Deep Learning

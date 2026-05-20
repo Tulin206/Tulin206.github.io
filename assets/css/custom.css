@@ -2,3 +2,57 @@
 #section-resume-skills .grid {
   gap: 3.5rem !important;
 }
+
+.selected-skills {
+  margin-top: 5rem;
+  text-align: center;
+}
+
+.selected-skills-title {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin-bottom: 0;
+}
+
+.selected-skills-icon {
+  color: #a855f7 !important;
+  font-style: normal;
+}
+
+.selected-skills-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+.selected-skill-pill {
+  display: inline-block;
+  padding: 0.4rem 1rem;
+  border-radius: 9999px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #ffffff;
+  background: rgba(139, 92, 246, 0.18);
+  border: 1px solid rgba(139, 92, 246, 0.35);
+  backdrop-filter: blur(4px);
+  transition: all 0.2s ease;
+}
+
+.selected-skill-pill:hover {
+  background: rgba(139, 92, 246, 0.35);
+  border-color: rgba(139, 92, 246, 0.7);
+  color: #ffffff;
+  transform: translateY(-1px);
+}
+
+.selected-skills-column {
+  font-size: 1.15rem;
+  line-height: 1.9;
+  color: #e5e7eb;
+}
+
+.selected-skill-item {
+  margin-bottom: 0.1rem;
+}

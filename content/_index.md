@@ -37,6 +37,7 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
+    id: my-research
     content:
       title: '📚 My Research'
       subtitle: ''
@@ -49,7 +50,7 @@ sections:
 
         I’m interested in building robust, trustworthy, and useful AI solutions for real-world scientific and medical challenges. Please reach out to collaborate 😃
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     id: papers
     content:
@@ -79,7 +80,9 @@ sections:
         folders:
           - events
     design:
-      view: card
+      # view: card
+      view: article-grid
+      columns: 2
   # - block: collection
   #   id: news
   #   content:

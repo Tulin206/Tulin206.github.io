@@ -3,6 +3,32 @@
   gap: 3.5rem !important;
 }
 
+/* My Research section full width */
+#my-research .max-w-prose {
+  max-width: 100% !important;
+}
+
+#my-research .flex.flex-col.items-center {
+  align-items: center !important;
+}
+
+#my-research .px-6 {
+  max-width: 75% !important;
+  width: 75% !important;
+  align-self: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#my-research .mb-6 {
+  text-align: center;
+  width: 100%;
+}
+
+#my-research .prose {
+  text-align: justify;
+}
+
 .selected-skills {
   margin-top: 0.9rem;
   text-align: center;

@@ -153,3 +153,8 @@ section[id*="publication"] .prose {
   text-align-last: left;
   hyphens: auto;
 }
+
+/* Hide only the Hugo Blox footer CTA button */
+footer .powered-by a[data-hbx="poweredby_cta"] {
+  display: none !important;
+}

@@ -121,6 +121,11 @@
   max-width: 65% !important;
 }
 
+/* Reduce gap between Recent Publications heading and citation list */
+#section-collection .container.max-w-3xl.w-full {
+  margin-top: 2rem !important;
+}
+
 /* Alternative: target all collection blocks */
 .block-collection .prose {
   font-size: 1.15rem !important;

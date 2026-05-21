@@ -175,3 +175,50 @@ footer .powered-by a[data-hbx="poweredby_cta"] {
 #section-resume-biography-3 .bio-text {
   display: block;
 }
+
+/* Skills section: 4 columns on desktop */
+#section-resume-skills .grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+  gap: 2rem !important;
+  max-width: 90% !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Tablet */
+@media (max-width: 1024px) {
+  #section-resume-skills .grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  }
+}
+
+/* Mobile */
+@media (max-width: 640px) {
+  #section-resume-skills .grid {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* Awards section: show award cards side by side on desktop */
+#section-resume-awards > .flex {
+  max-width: min(90rem, 92vw) !important;
+  width: 100% !important;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+#section-resume-awards .w-full.flex.flex-col.gap-6 {
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  align-items: stretch;
+}
+
+#section-resume-awards .w-full.flex.flex-col.gap-6 > .w-full {
+  height: 100%;
+}
+
+@media (max-width: 900px) {
+  #section-resume-awards .w-full.flex.flex-col.gap-6 {
+    grid-template-columns: 1fr !important;
+  }
+}

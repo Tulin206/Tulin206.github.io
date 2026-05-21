@@ -78,9 +78,12 @@ education:
     summary: |
       Thesis on Deep-learning-based quantification of pancreatic texture using IR-Spectroscopy data.
     button:
-      text: Download dissertation
+      # text: Download dissertation
+      text: View Master's Thesis
       url: https://github.com/Tulin206/Thesis_Report/blob/main/thesis-report-master-NCT/thesis.pdf
-      icon: hero/arrow-down-tray
+      # icon: hero/arrow-down-tray
+      # icon: brands/github
+      icon: hero/document-text
   - degree: M.Sc. in Computer Science and Engineering
     institution: Jahangirnagar University, Bangladesh
     start: 2012-06-01
@@ -100,8 +103,11 @@ experience:
               Co-authored paper on denoising sinograms.
     button:
       text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
+      url: https://www.hzdr.de/db/Cms?pOid=60710&pNid=3677
+      # icon: hero/arrow-down-tray
+      # icon: hero/briefcase
+      # icon: hero/identification
+      icon: hero/arrow-top-right-on-square
   - role: Machine Learning Engineer
     org: OVGU
     start: 2025-02-01
@@ -128,16 +134,12 @@ skills:
 
   - name: Scientific Imaging & Tomography
     items:
-      - label: ROFEX Sinogram Denoising
+      - label: Sinogram Denoising
         level: 5
       - label: Tomographic Reconstruction
         level: 4
-      - label: CAREamics
+      - label: CAREamics / Noise2Void / N2V2 / Strcut N2V
         level: 5
-      - label: Noise2Void / N2V2
-        level: 5
-      - label: Structured N2V
-        level: 4
       - label: Image Segmentation
         level: 4
       - label: Object Detection
@@ -247,7 +249,7 @@ awards:
     icon: hero/trophy
   - title: Self-supervised Denoising Of Raw Tomography Detector Data For Improved Image Reconstruction
     date: "2026-06-10"
-    awarder: HAICON 2026 Conference
+    awarder: HAICON 2026 Conference - Poster Presentation
     summary: |
       Ultrafast electron beam X-ray computed tomography produces noisy data due to short acquisition times, resulting in reconstruction artifacts and reduced image quality. To address this challenge, we investigated two self-supervised deep-learning methods for denoising raw detector data and compared them with a conventional non-learning-based denoising approach. The methods were evaluated at both the sinogram and reconstruction levels using quantitative image quality measures, including PSNR and SSIM, as well as line-based analyses such as CTF and MTF. We found that the deep-learning-based methods enhanced the signal-to-noise ratio and led to overall improvements in the reconstructed images, outperforming the conventional non-learning-based method. Although the improvements in CTF and MTF were marginal, the overall findings indicate that self-supervised denoising of raw detector data can improve reconstruction quality. Future work will focus on further optimizing denoising performance and on investigating downstream tasks such as segmentation for additional validation.
     icon: hero/academic-cap

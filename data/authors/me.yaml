@@ -191,14 +191,14 @@ skills:
     items:
       - label: High-Performance Computing
         level: 5
-      - label: Scalable Scientific Computing
-        level: 4
+      - label: Parallel & Scalable Computing
+        level: 5
       - label: Unix/Linux Shell Scripting
-        level: 4
-      - label: PyCharm
         level: 5
-      - label: Visual Studio Code
-        level: 5
+      # - label: PyCharm
+      #   level: 5
+      # - label: Visual Studio Code
+      #   level: 5
 
   - name: Data Analysis & Pipelines
     items:

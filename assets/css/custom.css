@@ -293,3 +293,17 @@ footer .powered-by a[data-hbx="poweredby_cta"] {
     grid-template-columns: 1fr !important;
   }
 }
+
+/* #section-resume-skills .grid > .w-full > .mb-5 {
+  color: #f3e8ff !important;
+  font-weight: 800;
+} */
+
+.dark #section-resume-skills .grid > .w-full > .mb-5 {
+  border-bottom-color: rgba(216, 180, 254, 0.18);
+}
+
+#section-resume-skills .grid > .w-full > .mb-5 {
+  color: #e9d5ff !important;
+  font-weight: 800;
+}

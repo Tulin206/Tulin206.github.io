@@ -10,7 +10,9 @@ publishDate: '2017-09-20T00:00:00Z'
 
 publication_types: ["article-journal"]
 
-publication: '*Automatic Detection for Healthy and Unhealthy Kidneys on Abdominal CT Images using Machine Learning Algorithm* (International Journal of Computer Applications (0975 – 8887) Volume 173 – No.2, September 2017 )'
+publication: '*Automatic Detection for Healthy and Unhealthy Kidneys on Abdominal CT Images using Machine Learning Algorithm*'
+
+# (International Journal of Computer Applications (0975 – 8887) Volume 173 – No.2, September 2017 )
 # publication_short: 'In *IJCA*'
 
 abstract: In this paper, we have proposed a machine learning (Support Vector Machine) approach for detecting healthy and unhealthy kidneys in CT (Computed Tomography) images. At first, kidney region have been segmented from the abdomen area using region growing algorithm. After successful segmentation, the kidney region is extracted and it is given to Support Vector Machine algorithm for the final detection of which kidney is healthy and unhealthy. Our proposed approach consists of training process and testing process. In training process we train our algorithm with the CT images of healthy kidney and unhealthy kidney. In testing process our algorithm detect healthy and unhealthy kidneys from the input images with an accuracy of 73.3%. The proposed algorithm has been implemented in MATLAB and experiment result tested on 70 images downloaded from internet.

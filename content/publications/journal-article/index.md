@@ -17,7 +17,9 @@ publishDate: "2017-08-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*A Comparative Study of Gaussian Noise Removal Methodologies for Gray Scale Images* (International Journal of Computer Applications (0975 – 8887), Volume 172 – No.5, August 2017)"
+publication: "*A Comparative Study of Gaussian Noise Removal Methodologies for Gray Scale Images*"
+
+# (International Journal of Computer Applications (0975 – 8887), Volume 172 – No.5, August 2017)
 # publication_short: 'In *IJCA*'
 
 abstract: Image filtering is a technique to preserve important signal elements such as edges, smoothing the details of the image to make images appear clear and sharpener. Among all the non linear concepts to suppress Gaussian noise the fuzzy logic based approaches are important as they are capable of reasoning with vague and uncertain information. In this study,  have made comparative study with the existing noise reduction methods where the images contaminated with Gaussian noise and found the best result by using fuzzy image filter with the help of fuzzy rules which make use of membership functions. In this article, to perform fuzzy smoothing, fuzzy derivative concept is also applied. This method provides better input for further image processing techniques. It also increases the contrast of the images, fine details and sharpening the edges as well. This comparative study, is made by numerical measures and visual inspection.

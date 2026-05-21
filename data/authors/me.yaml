@@ -145,43 +145,47 @@ skills:
       - label: Object Detection
         level: 4
       - label: Feature Extraction
-        level: 4
+        level: 5
 
   - name: Programming & Frameworks
     items:
       - label: Python
         level: 5
-      - label: TensorFlow / Keras
-        level: 5
       - label: PyTorch
-        level: 4
-      - label: Scikit-learn
         level: 5
-      - label: Pandas / NumPy / SciPy
+      - label: TensorFlow / Keras / Scikit-learn / Pandas / NumPy / SciPy / Matplotlib / TensorBoard
         level: 5
-      - label: Matplotlib
-        level: 4
-      - label: TensorBoard
-        level: 4
+      # - label: Scikit-learn
+      #   level: 5
+      # - label: Pandas / NumPy / SciPy
+      #   level: 5
+      # - label: Matplotlib
+      #   level: 4
+      # - label: TensorBoard
+      #   level: 4
+      - label: PyCharm / Visual Studio Code
+        level: 5
+      - label: Jupyter / Colab / marimo
+        level: 5
 
   - name: MLOps & Reproducible Workflows
     items:
       - label: Git / Version Control
         level: 5
       - label: Testing
-        level: 4
+        level: 5
       - label: CI/CD
-        level: 4
-      - label: Containers
+        level: 5
+      - label: Docker / Podman / Containers
         level: 4
       - label: DVC Pipelines
         level: 4
       - label: FAIR Data Principles
-        level: 4
+        level: 5
       - label: Secure Data Handling
-        level: 4
+        level: 5
       - label: Conda / uv / Pixi
-        level: 4
+        level: 5
 
   - name: HPC & Scientific Computing
     items:

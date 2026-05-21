@@ -84,3 +84,58 @@
 .selected-skill-item {
   margin-bottom: 0.1rem;
 } */
+
+/* Recent Publications - Increase font size and width */
+/* Increase author name and all text size */
+.view-citation .article-style,
+.view-citation p,
+.view-citation .article-style p,
+.view-citation {
+  font-size: 1.3rem !important;
+  line-height: 1.7 !important;
+}
+
+/* Target publication title (italicized text) - make it larger */
+.view-citation em,
+.view-citation i,
+.view-citation .article-style em,
+.view-citation .article-style i {
+  font-size: 1.25rem !important;
+  font-weight: 500;
+  color: #a78bfa !important; /* Light purple color */
+}
+
+/* Target publication type links (Preprint/working paper, Journal Article, etc.) */
+.view-citation a[href*="publication"]:not(.hb-attachment-link),
+.view-citation .article-style a:not(.btn):not(.hb-attachment-link){
+  color: #60a5fa !important; /* Light blue color */
+  font-style: italic !important;
+  text-decoration: underline !important;
+  transition: color 0.2s ease;
+  font-size: 1.35rem !important;
+}
+
+/* Increase width of Recent Publications section */
+#section-collection .container,
+#section-collection .max-w-prose {
+  max-width: 65% !important;
+}
+
+/* Alternative: target all collection blocks */
+.block-collection .prose {
+  font-size: 1.15rem !important;
+  max-width: 65% !important;
+}
+
+/* More general approach for all publication sections */
+section[id*="paper"] .prose,
+section[id*="publication"] .prose {
+  font-size: 1.2rem !important;
+  max-width: 65% !important;
+}
+
+/* Make publication attachment buttons bigger: PDF, Cite, Preprint, Code, Poster */
+.view-citation .hb-attachment-link {
+  font-size: 1rem !important;
+  line-height: 1.4 !important;
+}

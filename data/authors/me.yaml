@@ -54,14 +54,18 @@ selected_skills:
   - Python
   - Deep Learning Frameworks
   - Scientific Python Stack
-  - Git / CI/CD / DVC
-  - MLOps & Reproducible AI
-  - FAIR & Secure Data
-  - Conda / uv / Pixi
-  - Containers / HPC / Scalable Computing
+  - PyTest
+  - Git
+  - CI/CD
+  - DVC Pipelines
+  - Reproducible AI
+  - Prompt Engineering
+  - HPC
+  - Containerization
   # - Unix/Linux Shell Scripting
   # - PyCharm / Visual Studio Code
   - Data Analysis
+  - FAIR & Secure Data Handling
 
 interests:
   - Machine Learning / Deep Learning

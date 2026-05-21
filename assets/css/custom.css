@@ -145,3 +145,11 @@ section[id*="publication"] .prose {
   text-align: justify !important;
   text-align-last: left;
 }
+
+/* Align Professional Summary text on both left and right sides */
+.resume-biography .bio-text,
+.resume-biography .bio-text p {
+  text-align: justify !important;
+  text-align-last: left;
+  hyphens: auto;
+}

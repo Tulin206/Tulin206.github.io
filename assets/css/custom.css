@@ -158,3 +158,15 @@ section[id*="publication"] .prose {
 footer .powered-by a[data-hbx="poweredby_cta"] {
   display: none !important;
 }
+
+/* Make Professional Summary text use the full right column width */
+#section-resume-biography-3 .prose,
+#section-resume-biography-3 .bio-text,
+#section-resume-biography-3 .bio-text p {
+  max-width: none !important;
+  width: 100% !important;
+}
+
+#section-resume-biography-3 .bio-text {
+  display: block;
+}

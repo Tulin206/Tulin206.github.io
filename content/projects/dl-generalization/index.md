@@ -10,8 +10,10 @@ tags:
 featured: false
 
 links:
-  - type: github
+  # - type: github
+  - name: GitHub Repository
     url: "https://github.com/Tulin206/ResNet_TensorFlow"
+    icon: brands/github
 ---
 
 ## Project Overview
@@ -36,7 +38,8 @@ This project investigates a fundamental question in deep learning: **Why do deep
 ### Architectures Tested
 - AlexNet
 - VGG19
-- ResNet
+- ResNet (ResNet-18 and ResNet-50)
+- Evaluated both built from scratch and pre-trained models
 
 ### Experiments Conducted
 1. Training on clean data with standard evaluation

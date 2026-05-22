@@ -11,8 +11,10 @@ tags:
 featured: false
 
 links:
-  - type: github
+  # - type: github
+  - name: GitHub Repository
     url: "https://github.com/Tulin206/thesis"
+    icon: brands/github
 ---
 
 ## Project Overview
@@ -63,8 +65,8 @@ Developed an AI-powered system to analyze pancreatic tissue textures and tumor g
 
 ## Research Collaboration
 
-- **Institution**: Helmholtz-Zentrum Dresden-Rossendorf (HZDR) & NCT Dresden
-- **Advisor**: Prof. Dr. Stefanie Speidel
+- **Institution**: NCT Dresden
+- **Advisor**: Prof. Dr. Stefanie Speidel, Dr.-Ing. Sebastian Bodenstedt, Nithya Bhasker
 - **Clinical Partners**: Oncology Department
 
 ## Impact

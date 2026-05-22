@@ -11,7 +11,7 @@ tags:
 
 ## Project Overview
 
-Developed an interactive augmented reality system using HoloLens and tablet integration to visualize and interact with 3D medical imaging data (liver CT), enabling enhanced surgical planning and medical training.
+Developed an interactive augmented reality system using HoloLens and tablet integration to visualize and interact with 3D medical imaging data (liver CT), enabling enhanced surgical planning and medical training. This was a joint project developed in collaboration with fellow master's students.
 
 <!--more-->
 

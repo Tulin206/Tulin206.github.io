@@ -9,7 +9,7 @@ tags:
 
 Gained object-oriented programming skills through the SCPROG course at TU Dresden, focusing on Java.
 
-Completed projects on core Java OOP concepts, including inheritance, polymorphism, interfaces, and generics.
+Completed projects on core Java OOP concepts, including inheritance, polymorphism, dynamic binding, packages, abstract classes, interfaces, type casting, arrays and generics.
 
 Collaborated with peers to enhance problem-solving and debugging skills.
 

@@ -20,7 +20,7 @@ main:
     url: experience/
     weight: 11
   - name: Awards
-    url: /experience/#section-resume-awards
+    url: awards/
     weight: 13
   - name: Skills
     url: skills/

@@ -12,10 +12,10 @@ tags:
   - Python
   - Course
 
-# image:
-#   caption: "S³ School 2026 recap presentation"
-#   focal_point: Center   #Top | Bottom | Left | Right
-#   preview_only: false
+image:
+  caption: "S³ School 2026 recap presentation"
+  focal_point: Top
+  preview_only: false
 
 content_meta:
   content_type: 'Course'

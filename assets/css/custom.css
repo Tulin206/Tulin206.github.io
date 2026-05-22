@@ -422,3 +422,14 @@ footer .powered-by a[data-hbx="poweredby_cta"] {
     grid-column: 2;
   }
 }
+
+/* Courses: keep S3 School thumbnail fully visible in the card */
+#courses a[href="/courses/s3_school/"] img {
+  object-fit: contain !important;
+  object-position: center top !important;
+  background-color: rgba(255, 255, 255, 0.86);
+}
+
+.dark #courses a[href="/courses/s3_school/"] img {
+  background-color: rgba(24, 24, 27, 0.88);
+}

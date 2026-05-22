@@ -52,7 +52,7 @@ sections:
 
         I also enjoy teaching and scientific communication, contributing to ML and deep learning training through HIDA, the HPC Gateway Fall School, and the ErUM Data Hub, and presenting research at scientific events.
 
-        I’m interested in building robust, trustworthy, and useful AI solutions for real-world scientific and medical challenges. For a detailed overview of my research, please visit the [Projects](/projects/) section. Please reach out to collaborate 😃
+        I’m interested in building robust, trustworthy, and useful AI solutions for real-world scientific and medical challenges. For a detailed overview of my research, please visit the <a href="/projects/" class="research-projects-link">Projects</a> section. Please reach out to collaborate 😃
     design:
       columns: '2'
   - block: collection

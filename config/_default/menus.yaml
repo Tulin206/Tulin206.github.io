@@ -34,3 +34,6 @@ main:
   - name: Certificates
     url: certificates/
     weight: 50
+  - name: References
+    url: recommendation-letters/
+    weight: 60

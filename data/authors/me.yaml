@@ -13,7 +13,7 @@ postnominals:
   - MIEEE
 status:
   icon: "☕️"
-role: AI Research Scientist
+role: Machine Learning Engineer
 # role: |
 #   AI Research Scientist
 
@@ -30,7 +30,7 @@ bio: |
       Outside of work, she enjoys traveling, hiking, and watercolor painting.
 
 affiliations:
-  - name: HZDR
+  - name: Helmholtz-Zentrum Dresden-Rossendorf (HZDR)
     url: https://www.hzdr.de/
 
 links:
@@ -98,8 +98,8 @@ education:
     end: 2012-07-31
 
 experience:
-  - role: AI Research Scientist
-    org: HZDR
+  - role: Machine Learning Engineer
+    org: Helmholtz-Zentrum Dresden-Rossendorf (HZDR)
     start: 2025-04-01
     summary: |
       Leading research on ROFEX data denoising using deep learning. 

@@ -35,7 +35,7 @@ Researching and implementing self-supervised deep learning methods to denoise ra
 - **Preprint**: arXiv:2511.17312 [cs.LG] - Peer-reviewed research paper
 - **Poster**: HAICON 2026 (accepted abstract)
 - **Conferences**: Presented at "Building Bridges" and "Brains on Silicon"
-- **Funding**: Co-authored accepted Helmholtz AI AIRE funding proposal
+<!-- - **Funding**: Co-authored accepted Helmholtz AI AIRE funding proposal -->
 
 ### Technical Achievements
 - Compared self-supervised vs. non-learning denoising methods
@@ -63,18 +63,15 @@ Researching and implementing self-supervised deep learning methods to denoise ra
 
 ## Research Collaborations
 
-- **Helmholtz-Zentrum Dresden-Rossendorf (HZDR)**
-- **AI Consulting Team**
-- **ERUM Hub Teaching & Training**
-- **HPC Gateway Fall School**
-- **HIDA (Helmholtz Information and Data Academy)**
+- **HZDR AI Consulting Team:** Conducted the research internally as an AI Consultant.
+- **Fluid Dynamics Department, HZDR (Dominic Windisch, Dr. André Bieberle):** Acted as the client, providing the dataset and outsourcing the required task.
 
 ## Impact & Applications
 
 - Advanced computational imaging techniques
 - Improved medical and scientific imaging quality
 - Foundation for further research in unsupervised learning for imaging
-- Contributions to open science through accessible code and documentation
+- Contributions to open science through accessible code, documentation, and open source commits to the CAREamics library
 
 ## Ongoing Work
 

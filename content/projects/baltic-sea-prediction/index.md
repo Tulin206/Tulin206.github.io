@@ -10,10 +10,12 @@ tags:
   - Docker
 
 links:
-  - type: dataset
-    url: "https://www.balticsea.eu/"
-  - type: github
+  # - type: dataset
+  #   url: "https://www.balticsea.eu/"
+  # - type: github
+  - name: GitHub Repository
     url: "https://github.com/Tulin206/Baltic-Sea"
+    icon: brands/github
 ---
 
 ## Project Overview

@@ -433,3 +433,16 @@ footer .powered-by a[data-hbx="poweredby_cta"] {
 .dark #courses a[href="/courses/s3_school/"] img {
   background-color: rgba(24, 24, 27, 0.88);
 }
+
+/* Highlight link inside My Research block */
+#my-research .prose a {
+  color: #60a5fa !important;
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+#my-research .prose a:hover {
+  color: #93c5fd !important;
+}

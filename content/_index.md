@@ -44,11 +44,15 @@ sections:
       text: |-
         I’m an AI consultant and machine learning engineer working at the intersection of deep learning, computer vision, scientific imaging, and reproducible AI. At HZDR, I focus on self-supervised denoising of ROFEX sinograms and raw tomography detector data using CAREamics, Noise2Void, N2V2, and Structured N2V, followed by tomographic reconstruction and evaluation with PSNR, SSIM, CTF, MTF, and reconstruction-quality analysis.
 
-        My broader work spans biomedical image analysis, medical deep learning, sensor and time-series data, multimodal data integration, anomaly detection, and scalable scientific computing on HPC systems. I build practical and reproducible AI workflows using Git, GitLab, CI/CD, containers, DVC, testing, FAIR data principles, secure data handling, and modern Python environments such as Conda, uv, and Pixi.
+        My research also includes medical AI. In my Master’s thesis, I applied deep learning to pancreas texture classification and tumor-grade analysis using infrared spectroscopy data. I additionally worked on kidney-focused projects, including fuzzy-based denoising for kidney segmentation and machine-learning approaches for healthy and unhealthy kidney detection in abdominal CT images. Together, these projects show my ability to work across diverse medical data types as well as materials and detector data domains.
+
+        At Otto von Guericke University Magdeburg (OVGU), I also contributed to an AI-based interactive spine application, supporting applied medical software development and user-oriented clinical interaction workflows. These efforts also involved sensor-data-driven analysis and interaction components.
+
+        Beyond model development, I build practical and reproducible AI workflows using Git, GitLab, CI/CD, containers, DVC, testing, FAIR data principles, secure data handling, and modern Python environments such as Conda, uv, and Pixi.
 
         I also enjoy teaching and scientific communication, contributing to ML and deep learning training through HIDA, the HPC Gateway Fall School, and the ErUM Data Hub, and presenting research at scientific events.
 
-        I’m interested in building robust, trustworthy, and useful AI solutions for real-world scientific and medical challenges. Please reach out to collaborate 😃
+        I’m interested in building robust, trustworthy, and useful AI solutions for real-world scientific and medical challenges. For a detailed overview of my research, please visit the [Projects](/projects/) section. Please reach out to collaborate 😃
     design:
       columns: '2'
   - block: collection

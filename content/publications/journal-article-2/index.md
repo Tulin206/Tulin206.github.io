@@ -1,5 +1,5 @@
 ---
-title: 'Journal Article'
+title: 'Automatic Detection for Healthy and Unhealthy Kidneys on Abdominal CT Images using Machine Learning Algorithm'
 
 authors:
   - me

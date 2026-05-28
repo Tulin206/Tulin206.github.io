@@ -1,5 +1,5 @@
 ---
-title: "Journal Article"
+title: "A Comparative Study of Gaussian Noise Removal Methodologies for Gray Scale Images"
 authors:
 - me
 # - Robert Ford

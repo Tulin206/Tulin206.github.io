@@ -140,15 +140,25 @@ experience:
       Developed stochastic occupancy grids and RANSAC-based detection for improved vehicle safety.
       Cleaned, transformed, and integrated stereo image data for accurate model training.
       Focused on data preprocessing, data transformation, and model validation for accurate object detection.
+  - role: Assistant Professor
+    org: BUFT, SMUCT, Gono University
+    start: 2019-01-01
+    end: 2019-09-30
+    summary: |
+      Promoted from Lecturer to Assistant Professor in January 2019.
+      Continued teaching and supervising academic projects before relocating to Germany in September 2019 for a second master's degree at TU Dresden.
+      Took study leave from the position during the master's program and later resigned after completing the degree to continue building a machine learning career in Germany.
+      Taught courses in C, Python, operating systems, databases, and machine learning.
+      Supervised student thesis projects and supported academic mentoring.
   - role: Lecturer
     org: BUFT, SMUCT, Gono University
     start: 2014-01-01
-    end: 2019-09-30
+    end: 2018-12-31
     summary: |
       Delivered lectures on C, Python, operating systems, databases, and machine learning.
       Supervised student thesis projects, providing mentorship and guidance.
       Promoted interdisciplinary collaboration through cross-departmental projects and participated in professional conferences to stay updated on machine learning research and trends.
-      Published in peer-reviewed journals: Article 1, Article 2, Article 3.
+      Published peer-reviewed journal articles: [Gaussian noise removal for gray scale images](/publications/journal-article/), [kidney health detection in CT images](/publications/journal-article-2/), and [computer-aided kidney segmentation](/publications/journal-article-1/).
 
 skills:
   - name: AI & Machine Learning

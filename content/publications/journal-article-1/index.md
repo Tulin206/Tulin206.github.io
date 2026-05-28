@@ -1,5 +1,5 @@
 ---
-title: 'Journal Article'
+title: 'Computer-aided Kidney Segmentation on Abdominal CT Images Using Fuzzy Based Denoising for Gaussian Noise'
 
 authors:
   - me

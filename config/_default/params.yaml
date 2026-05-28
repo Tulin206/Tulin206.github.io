@@ -101,9 +101,9 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   analytics:
     google:
-      measurement_id: "G-XXXXXXXXXX"    # Google Analytics 4: G-XXXXXXXXXX
+      measurement_id: "G-QZDT8QP58E"    # Google Analytics 4: G-XXXXXXXXXX
     google_tag_manager:
-      container_id: "GTM-XXXXXXXXXX"    # GTM-XXXXXXX
+      container_id: ""                  # GTM-XXXXXXX
     plausible:
       domain: ""
     fathom:

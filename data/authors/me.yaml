@@ -98,13 +98,16 @@ education:
     end: 2012-07-31
 
 experience:
-  - role: Machine Learning Engineer
+  - role: Wissenschaftliche Mitarbeiterin (Machine Learning Engineer)
     org: Helmholtz-Zentrum Dresden-Rossendorf (HZDR)
     start: 2025-04-01
     summary: |
-      Leading research on ROFEX data denoising using deep learning. 
-              Contributing to academic lectures. 
-              Co-authored paper on denoising sinograms.
+      Machine learning research for scientific imaging, including ROFEX sinogram denoising with CAREamics.
+      AI consulting, teaching, and training for interdisciplinary research teams.
+      Proposal writing, including an accepted Helmholtz AI funding application.
+      Upcoming anomaly detection project for scientific datasets with ROTOP Pharmaka GmbH.
+      Scientific writing as a paper co-author, including a HAICON 2026 accepted poster abstract.
+      Conference speaker and presenter for the ongoing tomography denoising project.
     button:
       text: View portfolio
       url: https://www.hzdr.de/db/Cms?pOid=60710&pNid=3677
@@ -112,13 +115,40 @@ experience:
       # icon: hero/briefcase
       # icon: hero/identification
       icon: hero/arrow-top-right-on-square
-  - role: Machine Learning Engineer
-    org: OVGU
+  - role: Wissenschaftliche Mitarbeiterin (Machine Learning Engineer)
+    org: Otto-von-Guericke-University Magdeburg (OVGU)
     start: 2025-02-01
     end: 2025-03-31
     summary: |
-      Worked on AI based interactive Spine App.
-      Developed ML models for medical image analysis.
+      Contributed to an AI-based interactive spine application using patient sensor data.
+      Supported applied medical software development and user-oriented clinical interaction workflows.
+  - role: Wissenschaftliche Hilfskraft mit abgeschlossener wissenschaftlicher Hochschulbildung
+    org: Technische Universität Dresden (CeTI)
+    start: 2021-04-01
+    end: 2025-01-31
+    summary: |
+      Developed robotics simulations in Unreal Engine and Unity using C#, C++, VR/AR tools, Leap Motion, motion capture systems, and haptic devices for hand motion replication and collision-based feedback.
+      Retrieved sensor data from motion capture systems (Qualisys, QTM Manager) and B&K sensors, measuring latency to improve precision, human-machine integration, and Internet of Skills research.
+      Upgraded the FingerTac wearable device from single-finger to three-finger interaction and integrated it into Unreal Engine in collaboration with Dr. Thomas Hulin from DLR to improve augmented haptic feedback.
+      Collaborated with cross-functional teams in an agile environment to define quality benchmarks, optimize data pipelines, deploy models, and refine project goals for system integration.
+  - role: Wissenschaftliche Hilfskraft mit abgeschlossener wissenschaftlicher Hochschulbildung
+    org: Technische Universität Dresden (ABSOLUT project)
+    start: 2020-01-01
+    end: 2020-06-30
+    summary: |
+      Researched ML-based object detection for safer autonomous transport systems.
+      Developed stochastic occupancy grids and RANSAC-based detection for improved vehicle safety.
+      Cleaned, transformed, and integrated stereo image data for accurate model training.
+      Focused on data preprocessing, data transformation, and model validation for accurate object detection.
+  - role: Lecturer
+    org: BUFT, SMUCT, Gono University
+    start: 2014-01-01
+    end: 2019-09-30
+    summary: |
+      Delivered lectures on C, Python, operating systems, databases, and machine learning.
+      Supervised student thesis projects, providing mentorship and guidance.
+      Promoted interdisciplinary collaboration through cross-departmental projects and participated in professional conferences to stay updated on machine learning research and trends.
+      Published in peer-reviewed journals: Article 1, Article 2, Article 3.
 
 skills:
   - name: AI & Machine Learning

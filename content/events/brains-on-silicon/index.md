@@ -1,5 +1,8 @@
 ---
 title: "Brains on Silicon"
+url: /talk/brains-on-silicon/
+aliases:
+  - /events/brains-on-silicon/
 
 event: Brains on Silicon
 event_url: ''

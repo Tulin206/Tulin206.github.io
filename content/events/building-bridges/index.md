@@ -1,5 +1,8 @@
 ---
 title: "Building Bridges"
+url: /talk/building-bridges/
+aliases:
+  - /events/building-bridges/
 
 event: Building Bridges
 event_url: 'https://www.hzdr.de/db/Cms?pOid=75537&pNid=0&pLang=de'

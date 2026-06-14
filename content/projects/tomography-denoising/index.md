@@ -33,7 +33,7 @@ Researching and implementing self-supervised deep learning methods to denoise ra
 
 ### Publications & Presentations
 - **Preprint**: arXiv:2511.17312 [cs.LG] - Peer-reviewed research paper
-- **Poster**: HAICON 2026 (accepted abstract)
+- **Poster**: HAICON 2026 accepted abstract
 - **Conferences**: Presented at "Building Bridges" and "Brains on Silicon"
 <!-- - **Funding**: Co-authored accepted Helmholtz AI AIRE funding proposal -->
 

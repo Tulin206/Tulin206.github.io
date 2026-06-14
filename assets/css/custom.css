@@ -288,6 +288,21 @@ footer .powered-by a[data-hbx="poweredby_cta"] {
   height: 100%;
 }
 
+#section-resume-awards .award-action-note {
+  display: inline-block;
+  margin-top: 0.85rem;
+  color: #d8b4fe;
+  font-weight: 700;
+}
+
+#section-resume-awards .award-action-note::before {
+  content: "→ ";
+}
+
+:not(.dark) #section-resume-awards .award-action-note {
+  color: #8b5cf6;
+}
+
 @media (max-width: 900px) {
   #section-resume-awards .w-full.flex.flex-col.gap-6 {
     grid-template-columns: 1fr !important;

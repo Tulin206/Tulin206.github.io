@@ -90,12 +90,12 @@ education:
       icon: hero/document-text
   - degree: M.Sc. in Computer Science and Engineering
     institution: Jahangirnagar University, Bangladesh
-    start: 2012-06-01
-    end: 2013-07-31
+    start: 2012-07-01
+    end: 2013-06-30
   - degree: B.Sc. in Computer Science and Engineering
     institution: Jahangirnagar University, Bangladesh
-    start: 2009-06-01
-    end: 2012-07-31
+    start: 2009-04-01
+    end: 2012-06-30
 
 experience:
   - role: Wissenschaftliche Mitarbeiterin (Machine Learning Engineer)
